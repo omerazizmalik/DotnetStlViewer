@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotnetStlViewer", "DotnetStlViewer\DotnetStlViewer.csproj", "{53BAE30C-6E7D-4B80-AAD5-7F5A2095840E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dental.WinUI", "Dental.WinUI\Dental.WinUI.csproj", "{7CC6ADB0-06CD-471C-A05C-253E32C729A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{53BAE30C-6E7D-4B80-AAD5-7F5A2095840E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53BAE30C-6E7D-4B80-AAD5-7F5A2095840E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{53BAE30C-6E7D-4B80-AAD5-7F5A2095840E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{53BAE30C-6E7D-4B80-AAD5-7F5A2095840E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC6ADB0-06CD-471C-A05C-253E32C729A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC6ADB0-06CD-471C-A05C-253E32C729A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC6ADB0-06CD-471C-A05C-253E32C729A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC6ADB0-06CD-471C-A05C-253E32C729A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
